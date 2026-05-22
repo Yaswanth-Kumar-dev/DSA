@@ -1,0 +1,12 @@
+# Eclipse
+bin/
+.settings/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+*.iml
+.idea/
